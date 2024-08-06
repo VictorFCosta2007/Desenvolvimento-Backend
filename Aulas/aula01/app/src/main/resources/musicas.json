@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "nome": "Killer Queen",
+        "duracao": 180
+    },
+    {
+        "id": 1,
+        "nome": "It's a kind of magic",
+        "duracao": 300
+    },
+    {
+        "id": 2,
+        "nome": "I Want to break free",
+        "duracao": 185
+    },
+    {
+        "id": 3,
+        "nome": "Aposta Brutal",
+        "duracao": 356
+    }
+]
